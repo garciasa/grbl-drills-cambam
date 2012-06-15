@@ -5,8 +5,8 @@ grbl-drills-cambam
 Usage:<br />
 <code>
 convertDrills.py -i inputfile -o outputfile [-m] <br />
-<inputfile> File with cambam gcodes <br />
-<outputfile> Outfile with drills converted <br />
+inputfile -> File with cambam gcodes <br />
+outputfile -> Outfile with drills converted <br />
 -m Just mark the hole (the Z-axis just down 0.5mm) <br />
 </code>
 Example:<br />
