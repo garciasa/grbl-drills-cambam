@@ -3,7 +3,7 @@ grbl-drills-cambam
 
 <p>Due to G81 gcode  is not supported by grbl, i did the script to convert G81 (produced for Cambam) to movements accepted by grbl to make drills.</p>
 
-Usage:
+<p>Usage:</p>
 <code>
 convertDrills.py -i <inputfile> -o <outputfile> [-m] <br />
 <inputfile> File with cambam gcodes <br />
